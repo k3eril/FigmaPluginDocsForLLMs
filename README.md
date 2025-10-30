@@ -7,7 +7,7 @@ Unofficial single-file Markdown snapshot of the official **Figma Plugins API** d
 
 1. Open **Settings → Indexing & Docs**
 
-<img width="815" height="640" alt="plug1" src="https://github.com/user-attachments/assets/c972c407-dc7b-4b46-afda-4074d43896ec" />
+<img width="673" height="528" alt="Open Settings → Indexing & Docs" src="https://github.com/user-attachments/assets/088543c7-89e8-4e91-8606-de97979ef43a" />
 
 
 </br> 2. Click **“Add docs”**, paste this link, and hit **Enter**:
@@ -18,17 +18,18 @@ https://raw.githubusercontent.com/k3eril/FigmaPluginDocsForLLMs/main/FigmaPlugin
 
 </br> 3. Name it however you like.
 
-<img width="540" height="242" alt="plug2" src="https://github.com/user-attachments/assets/b95f0ceb-32c2-45e2-9315-8a589897ce8d" />
+<img width="540" height="242" alt="Name it however you like" src="https://github.com/user-attachments/assets/ca5d46fb-b9b7-4d19-8903-1032b5a28d79" />
 
 
 </br>4. Wait until the **file is indexed**
 
-<img width="504" height="111" alt="plug3" src="https://github.com/user-attachments/assets/d5137aa0-36c5-4565-8b8e-06429d2fa852" />
+<img width="554" height="122" alt="Wait until the file is indexed" src="https://github.com/user-attachments/assets/b35f51cd-9d8e-48af-8603-32b5719162c3" />
 
 
 </br>5. Mention the doc in chat via **@ → Docs**.
 
-<img width="296" height="185" alt="plug4" src="https://github.com/user-attachments/assets/b7775dc0-a4a2-4608-9190-5ecd0465bad9" /></br> 
+<img width="325" height="203" alt="Mention the doc in chat via @ → Docs" src="https://github.com/user-attachments/assets/db1f9c64-e5d9-46ca-b654-65b365addfc8" />
+
 
 
 ## What's inside
