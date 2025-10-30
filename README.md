@@ -7,7 +7,7 @@ Unofficial single-file Markdown snapshot of the official **Figma Plugins API** d
 
 1. Open **Settings → Indexing & Docs**
 
-<img width="673" height="528" alt="Open Settings → Indexing & Docs" src="https://github.com/user-attachments/assets/088543c7-89e8-4e91-8606-de97979ef43a" />
+<img width="673" height="528" alt="Open Settings → Indexing & Docs" src="https://github.com/user-attachments/assets/691d2185-5efb-4e6c-9542-76c1e34c2e13" />
 
 
 </br> 2. Click **“Add docs”**, paste this link, and hit **Enter**:
